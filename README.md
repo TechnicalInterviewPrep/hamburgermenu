@@ -2,6 +2,8 @@
 
 [Create a hamburger menu using CSS pseudo elements](http://www.codesynthesis.co.uk/code-snippets/create-a-hamburger-icon-with-css)
 
+[If you are new to pseudo elements, check here for an interesting account of when they can come in handy](https://engineering.zenefits.com/2015/09/how-to-ace-a-phone-screen/)
+
 [Alternative approach](https://superdevresources.com/css-hamburger-menu/)
 
 [Extra credit: Try these other approaches](https://webdesign.tutsplus.com/tutorials/7-non-raster-approaches-for-making-the-hamburger-menu-icon--cms-21686)
